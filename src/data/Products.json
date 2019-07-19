@@ -1,0 +1,134 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "A SaucerFul of Secrets",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "groot", "guardians of the galaxy"
+        ],
+        "image": "./images/asaucer.jpg",
+        "age": [
+          "0", "+"
+        ],
+        "price": 19.99
+      },
+      {
+        "id": 2,
+        "name": "Check your head",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "action figure", "toy story", "posable", "requires batteries"
+        ],
+        "image": "./images/beastie.jpg",
+        "age": [
+          "3", "10"
+        ],
+        "price": 38.50
+      },
+      {
+        "id": 3,
+        "name": "Cowboy Bebop OST",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/bebop.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 4,
+        "name": "Chic",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/chic.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 5,
+        "name": "Exile on Main St.",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/exile.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 6,
+        "name": "James Brown live at the Apolo",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/jamesbrown.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 7,
+        "name": "Odelay",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/Odelay.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 8,
+        "name": "R.A.M.",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/ram.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 9,
+        "name": "Revolver",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/revolver.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      },
+      {
+        "id": 10,
+        "name": "Ziggy Stardust",
+        "description": "Commodo sunt reprehenderit laboris nulla amet reprehenderit id dolor ut magna officia. Mollit sit enim excepteur non quis nostrud amet et minim ut aute anim ipsum. Quis mollit est qui adipisicing ex laboris et dolor nulla ea minim culpa.",
+        "keywords": [
+          "stuffed", "plush", "minions", "Despicable Me"
+        ],
+        "image": "./images/riseandfall.jpg",
+        "age": [
+          "0", "10"
+        ],
+        "price": 12.99
+      }
+    ]
+  }
