@@ -36,10 +36,17 @@ html, body {
 }
 
 .links {
+  cursor: pointer;
   position: fixed;
   z-index: 30;
   right: 3%;
   top: 2%;
+}
+
+@media (min-width: 480px) {
+  .links {
+    top: 4px;
+  }
 }
 
 img {
@@ -58,6 +65,20 @@ img {
 @media (min-width: 480px) {
   .nav {
     top: 0;
+  }
+}
+
+.nav .desktitle {
+  display: none;
+}
+
+@media (min-width: 480px) {
+  .nav .desktitle {
+    position: fixed;
+    display: block;
+    height: 10%;
+    top: -15px;
+    left: 30%;
   }
 }
 
@@ -85,6 +106,7 @@ img {
     -webkit-box-pack: start;
         -ms-flex-pack: start;
             justify-content: flex-start;
+    top: 3px;
   }
 }
 
@@ -116,6 +138,18 @@ h1 {
   left: 25%;
   top: 50%;
   z-index: -1;
+  height: 30%;
+  width: 100vw;
+}
+
+@media (min-width: 480px) {
+  .apph1 .backh1 {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-size: 600%;
+  }
 }
 
 .app {
@@ -137,7 +171,7 @@ h1 {
 
 .home .container .preview {
   position: absolute;
-  width: 100;
+  width: 100%;
   height: 80%;
   top: 80px;
   left: 1em;
@@ -151,7 +185,15 @@ h1 {
   overflow: visible;
 }
 
+@media (min-width: 480px) {
+  .home .container .preview {
+    -ms-grid-columns: (1fr)[4];
+        grid-template-columns: repeat(4, 1fr);
+  }
+}
+
 .home .container .preview .previewprod {
+  cursor: pointer;
   height: 100%;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -160,6 +202,12 @@ h1 {
   font-weight: normal;
   border-radius: 5%;
   background-color: #ffffffaf;
+}
+
+@media (min-width: 480px) {
+  .home .container .preview .previewprod {
+    z-index: 40;
+  }
 }
 
 .home .container .preview .previewprod h3 {
@@ -177,7 +225,7 @@ h1 {
 
 .modalhome {
   position: relative;
-  z-index: 10;
+  z-index: 50;
   margin: 30% auto;
   border-style: solid;
   border-width: 5px;
@@ -189,6 +237,15 @@ h1 {
   display: grid;
   -ms-grid-columns: 1fr 1fr;
       grid-template-columns: 1fr 1fr;
+}
+
+@media (min-width: 480px) {
+  .modalhome {
+    width: 60%;
+    top: 30%;
+    margin: 0;
+    left: 30%;
+  }
 }
 
 .modalhome .prodname {

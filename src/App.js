@@ -16,7 +16,7 @@ class  App extends Component {
       <Router />
       
  <div className="apph1">
-   <h1>E-commerce</h1>
+   <h1 className="backh1">E-commerce</h1>
    </div>
   
     </div>

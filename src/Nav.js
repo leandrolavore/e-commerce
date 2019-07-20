@@ -8,7 +8,9 @@ import {NavLink} from 'react-router-dom'
                 <li><NavLink className="navlink" to='/'>Home</NavLink></li>
               
                 <li><NavLink className="navlink" to='/cart'>Cart</NavLink></li>
+                
             </ul>
+            <h1 className="desktitle">Webapp-Records (Antique)</h1>
         </div>
     )
 }
